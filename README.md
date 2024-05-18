@@ -22,8 +22,8 @@ Welcome to SKRRTN's AI Text-to-Speech (TTS) Bot! This project integrates a Twitc
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/skrrtn/TwitchAI2TTS.git
+    cd TwitchAI2TTS
     ```
 
 2. **Install the required Python packages:**
