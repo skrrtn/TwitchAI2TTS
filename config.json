@@ -1,0 +1,10 @@
+{
+    "openai_api_key": "your_openai_api_key",
+    "irc_server": "irc.chat.twitch.tv",
+    "irc_port": 6667,
+    "irc_nickname": "your_twitch_nickname",
+    "irc_token": "your_twitch_oauth_token",
+    "irc_channel": "#your_twitch_channel",
+    "model": "gpt-3.5-turbo",
+    "prompt": "You are a helpful assistant."
+}
