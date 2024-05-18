@@ -1,3 +1,7 @@
+<p align="center">
+<img src="screenshot.png?raw=true" border="10"/>
+</p>
+
 # 🎤 SKRRTN's AI TTS Bot Thingy
 
 Welcome to SKRRTN's AI Text-to-Speech (TTS) Bot! This project integrates a Twitch chat bot with OpenAI's GPT-3 API and a text-to-speech engine to provide real-time responses to questions asked in a Twitch chat. The bot reads out questions and answers, enhancing the interactive experience on your Twitch stream.
