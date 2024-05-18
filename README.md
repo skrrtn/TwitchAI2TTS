@@ -72,7 +72,7 @@ import openai
 import tkinter as tk
 import json
 import os
-import pyttsx3  # Import pyttsx3
+import pyttsx3
 from tkinter import font as tkfont
 from openai import OpenAI
 ```
